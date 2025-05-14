@@ -31,7 +31,3 @@ button {
   display: flex;
   gap: 2rem;
 }
-.flex-box:nth-child(1) {
-  margin-bottom: 3rem;
-  border: 1px solid red;
-}
